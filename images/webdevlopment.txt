@@ -1,0 +1,15 @@
+1.Requirement
+ skill development
+ 
+
+Website Design and Development
+   *responsive web design
+
+   *font end design  =>html,css,bootstarp,javascript,jquery
+   *backend design =>php
+
+   *wordpress =>
+
+  first month =>wordpress
+  secoud month=>design
+  third month=>devlopment
